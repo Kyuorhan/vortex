@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539507762033",
+    "project_id": "vortex-d27f2",
+    "storage_bucket": "vortex-d27f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539507762033:android:8c3cba2bd6a9498feaccd0",
+        "android_client_info": {
+          "package_name": "com.example.vortex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539507762033-v8c0pbhp9dshv08juklmc5juvc7krivi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vortex",
+            "certificate_hash": "a8e23f6ce7a0c1675d82290db424347a248983cf"
+          }
+        },
+        {
+          "client_id": "539507762033-aqv63h252jg2ij0iphici0os6s9dm2ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFN6NkHPtVn_RetVXkHhZ9aOn53DYtHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539507762033-aqv63h252jg2ij0iphici0os6s9dm2ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
