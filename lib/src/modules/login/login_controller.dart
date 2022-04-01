@@ -1,5 +1,3 @@
-// ignore_for_file: file_names, avoid_print
-
 import 'package:flutter/cupertino.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 // import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';

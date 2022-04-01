@@ -34,7 +34,7 @@ class SignInButton extends StatelessWidget {
               elevation: MaterialStateProperty.all(0),
               alignment: Alignment.center,
               padding: MaterialStateProperty.all(const EdgeInsets.only(
-                  right: 100, left: 100, top: 12, bottom: 13)),
+                  right: 85, left: 85, top: 12, bottom: 13)),
               backgroundColor: MaterialStateProperty.all(Colors.transparent),
               shape: MaterialStateProperty.all(
                 RoundedRectangleBorder(

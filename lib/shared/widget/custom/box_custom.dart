@@ -14,7 +14,7 @@ class BoxCustom extends StatelessWidget {
     return Container(
       margin: const EdgeInsets.only(top: 10, bottom: 10),
       height: 47,
-      width: 274,
+      width: 245,
       child: Row(
         mainAxisSize: MainAxisSize.min,
         mainAxisAlignment: MainAxisAlignment.center,
@@ -22,7 +22,7 @@ class BoxCustom extends StatelessWidget {
         children: [
           Container(
             height: 47,
-            width: 274,
+            width: 245,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10),
               border: Border.all(
@@ -32,8 +32,8 @@ class BoxCustom extends StatelessWidget {
             ),
             padding: const EdgeInsets.only(
               left: 15,
-              right: 180,
-              top: 3,
+              right: 155,
+              top: 2,
               bottom: 2,
             ),
             child: Row(
